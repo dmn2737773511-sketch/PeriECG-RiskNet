@@ -1,0 +1,50 @@
+{
+  "primary": {
+    "heldout_predictions.csv": {
+      "byte_identical": true,
+      "sha256": "3164afd0b9b39d9ea821d7b253337d9a688f946c45b0146034683c995d498579"
+    },
+    "fitted_reliability_models.json": {
+      "byte_identical": true,
+      "sha256": "6c5501e011280402974f044b4ebd94540b890193926a4cff38829aeac08ef3dd"
+    }
+  },
+  "public": {
+    "heldout_predictions.csv": {
+      "byte_identical": true,
+      "sha256": "ac97b3e8792402f7865211d828c0da5e29327e467e2fcfc3f6dab6ea0ca72b32"
+    },
+    "fitted_models.json": {
+      "byte_identical": true,
+      "sha256": "1df5319cb3d50988938665d57f024a79dbd80e8af5f4eb3887bdbc0ce86fbf2c"
+    }
+  },
+  "figures": {
+    "Fig_S31.png": {
+      "byte_identical": true,
+      "sha256": "d1fd6d868d7e1bb145300f066bbfa70d1be2c502026abb8ca6ed33a4ecf7798e"
+    },
+    "Fig_S32.png": {
+      "byte_identical": true,
+      "sha256": "044ea0a89f8d40757ac940d57717bc87d8f6fc8f56309ac016986453cd119e73"
+    }
+  },
+  "primary_fold_counts": {
+    "train_per_fold": 9216,
+    "test_per_fold": 1024,
+    "n_folds": 4,
+    "pooled_test": 4096,
+    "complete_replays": 16384
+  },
+  "source_manifest_public_fields": [
+    "group",
+    "sha256",
+    "n_samples",
+    "fs",
+    "nonunit_sample_steps",
+    "phase_counts"
+  ],
+  "status": "PASS",
+  "note": "Readme, downloaded-file hash enforcement and plot geometry helper were updated for public packaging; fitted analysis specifications and data are unchanged.",
+  "public_download_hash_check": "PASS: local samples match frozen expected hashes"
+}
