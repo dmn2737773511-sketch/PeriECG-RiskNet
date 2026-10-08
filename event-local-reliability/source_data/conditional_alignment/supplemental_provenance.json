@@ -1,0 +1,37 @@
+{
+  "executed_utc": "2026-10-06T14:52:06.872179+00:00",
+  "python_version": "3.12.14",
+  "script_sha256": "8a4107f25335a35d2f4c2de7ec377dd5d95235ccaaed3bd8349ef784c7fa7c80",
+  "input": "source_data/heldout_predictions.csv",
+  "input_sha256": "3164afd0b9b39d9ea821d7b253337d9a688f946c45b0146034683c995d498579",
+  "checks": {
+    "episode_id_unique": true,
+    "all_input_sources_diagonal_heldout_pairs": true,
+    "all_quartets_complete_four_expected_rotations": true,
+    "failure_labels_equal_f1_below_0_95": true,
+    "scores_finite_in_unit_interval": true,
+    "threshold_retained_counts_and_failure_counts_nested": true,
+    "discarded_nonfailure_accounting_exact": true,
+    "model_fitting_performed": false,
+    "iid_inference_performed": false
+  },
+  "outputs": {
+    "quartet_pair_details.csv": {
+      "rows": 4096,
+      "sha256": "e623245647e57cfada3833fbc27bbb8fbfcde89b1d59380ddb8dc2076ff1c1ff"
+    },
+    "quartet_concordance_summary.csv": {
+      "rows": 100,
+      "sha256": "4297535c6c999057364c04b93b91504ba6a3bab8d8b54b91da16e78c2012a483"
+    },
+    "fixed_threshold_decisions.csv": {
+      "rows": 60,
+      "sha256": "cd20ea7c1b05ad2506870cdfbe729dbb33b2016dca8ae7c625f9673a68c9e598"
+    },
+    "fixed_threshold_by_snr.csv": {
+      "rows": 240,
+      "sha256": "ac249755bb99d3c9b3dfdf36302770787dc765bdd60e4e1fc9a8977ed88f615f"
+    }
+  },
+  "record_scope": "Original calculation provenance; repository paths normalized for public release."
+}
