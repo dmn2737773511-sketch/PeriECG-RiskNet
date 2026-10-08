@@ -1,0 +1,62 @@
+[
+  {
+    "group": "G1",
+    "sha256": "53cedc53ba397572c3e0c4dc98de8cb07cdae3f4c987f63ccf3ca8833db0130b",
+    "n_samples": 300740,
+    "fs": 500.0,
+    "nonunit_sample_steps": 0,
+    "phase_counts": {
+      "0": 90160,
+      "1": 30040,
+      "2": 30040,
+      "3": 30060,
+      "4": 30020,
+      "5": 90160
+    }
+  },
+  {
+    "group": "G2",
+    "sha256": "dc45c3aa9e0f6310a58f150e65e45d4b331f3702910e250432b4e2beec23db57",
+    "n_samples": 300740,
+    "fs": 500.0,
+    "nonunit_sample_steps": 0,
+    "phase_counts": {
+      "0": 90140,
+      "1": 30060,
+      "2": 30040,
+      "3": 30040,
+      "4": 30060,
+      "5": 90120
+    }
+  },
+  {
+    "group": "G3",
+    "sha256": "8df494675f29084972b742d77e3ae9cfbbfa097aad754918ebdd17cbc3cfb79e",
+    "n_samples": 300860,
+    "fs": 500.0,
+    "nonunit_sample_steps": 0,
+    "phase_counts": {
+      "0": 90199,
+      "1": 30061,
+      "2": 30040,
+      "3": 30060,
+      "4": 30040,
+      "5": 90140
+    }
+  },
+  {
+    "group": "G4",
+    "sha256": "401e0c1038b8cfd3f70bc2ec7af897de1de97a95c6d4a65f65eafac83998c397",
+    "n_samples": 300840,
+    "fs": 500.0,
+    "nonunit_sample_steps": 0,
+    "phase_counts": {
+      "0": 90180,
+      "1": 30060,
+      "2": 30020,
+      "3": 30060,
+      "4": 30020,
+      "5": 90120
+    }
+  }
+]

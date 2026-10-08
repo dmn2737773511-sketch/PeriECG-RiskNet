@@ -1,0 +1,81 @@
+{
+  "primary": {
+    "heldout_predictions.csv": {
+      "byte_identical": true,
+      "sha256": "3164afd0b9b39d9ea821d7b253337d9a688f946c45b0146034683c995d498579"
+    },
+    "fitted_reliability_models.json": {
+      "byte_identical": true,
+      "sha256": "6c5501e011280402974f044b4ebd94540b890193926a4cff38829aeac08ef3dd"
+    },
+    "reliability_summary.csv": {
+      "byte_identical": true,
+      "sha256": "fbf7fa95322a6c54ab1adb29a5f77ec703ca8ea1283c39eda0b39a25f47ebf32"
+    },
+    "analysis_summary.json": {
+      "byte_identical": true,
+      "sha256": "6bc843120e2fbcd6fcdd7a987d1b668783abea298b2b7b3c745ab8acaaade8b1"
+    },
+    "fold_metrics.csv": {
+      "byte_identical": true,
+      "sha256": "ef5487f708930a36811ca5d66a3c50f5d7e370359718d40f4cd22f27577f0025"
+    },
+    "risk_coverage.csv": {
+      "byte_identical": true,
+      "sha256": "7472067b98a88766385f562688823e6847b71ea6e2027c6849420af788f2a295"
+    },
+    "pattern_retention.csv": {
+      "byte_identical": true,
+      "sha256": "e030311c847101ba6432b2dc6a58ce242424dd50e6ab673ad4cc3e16cb809ca2"
+    },
+    "matched_alignment_quartets.csv": {
+      "byte_identical": true,
+      "sha256": "b96a928b00f606a844872d5a10d193241fb71254127aee4f2b740cab554e5e3d"
+    },
+    "snr_summary.csv": {
+      "byte_identical": true,
+      "sha256": "754dd0d91e751bcb4f9fef5f9087da1bb5ab243ca711a54d3242dc18894b1d48"
+    }
+  },
+  "public": {
+    "heldout_predictions.csv": {
+      "byte_identical": true,
+      "sha256": "ac97b3e8792402f7865211d828c0da5e29327e467e2fcfc3f6dab6ea0ca72b32"
+    },
+    "fitted_models.json": {
+      "byte_identical": true,
+      "sha256": "1df5319cb3d50988938665d57f024a79dbd80e8af5f4eb3887bdbc0ce86fbf2c"
+    },
+    "model_summary.csv": {
+      "byte_identical": true,
+      "sha256": "7dfd37d562981a09cb6b89fa8968abde74e516286a33d2a2f294c4ff684c292d"
+    },
+    "patient_fold_metrics.csv": {
+      "byte_identical": true,
+      "sha256": "ddda3c9f68fb17400bf36348d8ecdcc2dfb28713f5a350bb85b42d4128376b2b"
+    },
+    "fit_warnings.json": {
+      "byte_identical": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "matched_quartets.csv": {
+      "byte_identical": true,
+      "sha256": "9f1fa0b19ed4217cc112379633101245363686302aa7b931cf728f8a12d29cbc"
+    },
+    "quartet_summary.csv": {
+      "byte_identical": false,
+      "sha256": "94763efc12bf74a773437d36e89bb0d45de14cb5dadefbd278facda3af3768ab",
+      "values_identical_after_column_order_alignment": true,
+      "explanation": "The reporting addendum places all pair-weighted columns before quartet-equal columns; the refit emits these in model-wise order. Values are identical."
+    },
+    "fixed_threshold_retention.csv": {
+      "byte_identical": true,
+      "sha256": "3536e5ffab6186f4898e9868410deef40141ff4061067f873269eb0c5c98af81"
+    }
+  },
+  "primary_conditional_tables": {
+    "byte_identical": true,
+    "count": 4
+  },
+  "conclusion": "PASS: supplied primary and public numeric inputs independently refit to byte-identical predictions and fitted parameters, and identical evaluation values."
+}

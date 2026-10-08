@@ -1,0 +1,769 @@
+{
+  "input": "authentic archived replay_banks.npz",
+  "replay_bank_sha256": "25f5ff87dbe6252520a4b9a2699525e80841db8ec019f743d638091b8c01408e",
+  "scope": "Raw CSV preprocessing and bank reconstruction, plus full bank-to-replay, features, source-held-out fitting and sensitivity rerun",
+  "csv": {
+    "replay_outcomes.csv": {
+      "archived_rows": 16384,
+      "rerun_rows": 16384,
+      "headers_identical": true,
+      "bytes_identical": true,
+      "archive_sha256": "fdc781164e6956458b55257bdb58c377c5190a93ab201c180e893c5d001eedd8",
+      "rerun_sha256": "fdc781164e6956458b55257bdb58c377c5190a93ab201c180e893c5d001eedd8",
+      "columns": {
+        "target": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "target_group": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "pattern": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "residual": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "residual_group": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "activity_phase": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "snr_db": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "shift_samples": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "noise_rms_mV": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "f1": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "f1_amplitude": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "tp": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "fp": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "fn": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "failure": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        }
+      }
+    },
+    "reliability_summary.csv": {
+      "archived_rows": 4,
+      "rerun_rows": 4,
+      "headers_identical": true,
+      "bytes_identical": true,
+      "archive_sha256": "fbf7fa95322a6c54ab1adb29a5f77ec703ca8ea1283c39eda0b39a25f47ebf32",
+      "rerun_sha256": "fbf7fa95322a6c54ab1adb29a5f77ec703ca8ea1283c39eda0b39a25f47ebf32",
+      "columns": {
+        "AUROC": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "AUPRC": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "Brier": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "ECE_10bin": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "method": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "n": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "risk_at_80pct": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "mean_f1_at_80pct": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        }
+      }
+    },
+    "fold_metrics.csv": {
+      "archived_rows": 12,
+      "rerun_rows": 12,
+      "headers_identical": true,
+      "bytes_identical": true,
+      "archive_sha256": "ef5487f708930a36811ca5d66a3c50f5d7e370359718d40f4cd22f27577f0025",
+      "rerun_sha256": "ef5487f708930a36811ca5d66a3c50f5d7e370359718d40f4cd22f27577f0025",
+      "columns": {
+        "heldout_record": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "method": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "n_train": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "n_test": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "failure_rate": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "AUROC": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "AUPRC": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "Brier": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "ECE_10bin": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        }
+      }
+    },
+    "risk_coverage.csv": {
+      "archived_rows": 28,
+      "rerun_rows": 28,
+      "headers_identical": true,
+      "bytes_identical": true,
+      "archive_sha256": "7472067b98a88766385f562688823e6847b71ea6e2027c6849420af788f2a295",
+      "rerun_sha256": "7472067b98a88766385f562688823e6847b71ea6e2027c6849420af788f2a295",
+      "columns": {
+        "method": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "coverage": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "n_retained": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "failure_rate": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "mean_f1": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        }
+      }
+    },
+    "pattern_retention.csv": {
+      "archived_rows": 8,
+      "rerun_rows": 8,
+      "headers_identical": true,
+      "bytes_identical": true,
+      "archive_sha256": "e030311c847101ba6432b2dc6a58ce242424dd50e6ab673ad4cc3e16cb809ca2",
+      "rerun_sha256": "e030311c847101ba6432b2dc6a58ce242424dd50e6ab673ad4cc3e16cb809ca2",
+      "columns": {
+        "method": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "pattern": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "n_total": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "n_retained": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "retention_rate": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "failure_rate_retained": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        }
+      }
+    },
+    "heldout_predictions.csv": {
+      "archived_rows": 4096,
+      "rerun_rows": 4096,
+      "headers_identical": true,
+      "bytes_identical": true,
+      "archive_sha256": "3164afd0b9b39d9ea821d7b253337d9a688f946c45b0146034683c995d498579",
+      "rerun_sha256": "3164afd0b9b39d9ea821d7b253337d9a688f946c45b0146034683c995d498579",
+      "columns": {
+        "target": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "target_group": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "pattern": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "residual": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "residual_group": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "activity_phase": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "snr_db": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "shift_samples": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "noise_rms_mV": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "f1": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "f1_amplitude": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "tp": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "fp": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "fn": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "failure": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "risk_Global": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "risk_Event": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "risk_Combined": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "risk_Agreement": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        }
+      }
+    },
+    "matched_alignment_quartets.csv": {
+      "archived_rows": 4096,
+      "rerun_rows": 4096,
+      "headers_identical": true,
+      "bytes_identical": true,
+      "archive_sha256": "b96a928b00f606a844872d5a10d193241fb71254127aee4f2b740cab554e5e3d",
+      "rerun_sha256": "b96a928b00f606a844872d5a10d193241fb71254127aee4f2b740cab554e5e3d",
+      "columns": {
+        "target": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "residual": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "snr_db": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "min_f1": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "max_f1": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "f1_range": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "straddles_failure": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "amplitude_f1_range": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "noise_rms_relative_range": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        }
+      }
+    },
+    "snr_summary.csv": {
+      "archived_rows": 4,
+      "rerun_rows": 4,
+      "headers_identical": true,
+      "bytes_identical": true,
+      "archive_sha256": "754dd0d91e751bcb4f9fef5f9087da1bb5ab243ca711a54d3242dc18894b1d48",
+      "rerun_sha256": "754dd0d91e751bcb4f9fef5f9087da1bb5ab243ca711a54d3242dc18894b1d48",
+      "columns": {
+        "snr_db": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "n": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "mean_f1": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "median_f1": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "failure_rate": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "mean_f1_amplitude": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "fraction_straddling": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "mean_alignment_f1_range": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        }
+      }
+    },
+    "sensitivity_analyses.csv": {
+      "archived_rows": 10,
+      "rerun_rows": 10,
+      "headers_identical": true,
+      "bytes_identical": true,
+      "archive_sha256": "278e2f2984f2a0b981ef5c220dad177d46efa87419edb3c1066ed82fc2c4e4b2",
+      "rerun_sha256": "278e2f2984f2a0b981ef5c220dad177d46efa87419edb3c1066ed82fc2c4e4b2",
+      "columns": {
+        "detector": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "failure_threshold": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "method": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "n": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "AUROC": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "AUPRC": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "Brier": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        },
+        "risk_at_80pct": {
+          "strings_identical": true,
+          "n_string_mismatches": 0,
+          "max_numeric_abs_difference": 0.0,
+          "first_mismatch_row": null
+        }
+      }
+    }
+  },
+  "npz": {
+    "reliability_features.npz": {
+      "keys_identical": true,
+      "arrays": {
+        "X": {
+          "shape_identical": true,
+          "dtype_identical": true,
+          "values_exactly_identical": true,
+          "n_unequal": 0,
+          "max_abs_difference": 0.0
+        },
+        "names": {
+          "shape_identical": true,
+          "dtype_identical": true,
+          "values_exactly_identical": true,
+          "n_unequal": 0,
+          "max_abs_difference": null
+        },
+        "global_n": {
+          "shape_identical": true,
+          "dtype_identical": true,
+          "values_exactly_identical": true,
+          "n_unequal": 0,
+          "max_abs_difference": 0.0
+        }
+      }
+    }
+  },
+  "json": {
+    "fitted_reliability_models.json": {
+      "values_exactly_identical": true,
+      "n_differences": 0,
+      "max_numeric_abs_difference": 0.0,
+      "differences": []
+    },
+    "analysis_summary.json": {
+      "values_exactly_identical": true,
+      "n_differences": 0,
+      "max_numeric_abs_difference": 0.0,
+      "differences": []
+    },
+    "verification_report.json": {
+      "values_exactly_identical": false,
+      "n_differences": 2,
+      "max_numeric_abs_difference": 0.0,
+      "differences": [
+        {
+          "path": "$.software.platform",
+          "archive": "Linux-6.18.44-x86_64-with-glibc2.41",
+          "rerun": "Linux-6.18.44-x86_64-with-glibc2.39",
+          "abs_difference": null
+        },
+        {
+          "path": "$.software.python",
+          "archive": "3.13.5",
+          "rerun": "3.12.14",
+          "abs_difference": null
+        }
+      ]
+    }
+  },
+  "clean_bank_eligibility": {
+    "n_targets": 64,
+    "n_residuals": 16,
+    "all_saved_clean_targets_pass_both_probes": true,
+    "min_energy_clean_f1": 1.0,
+    "min_amplitude_clean_f1": 1.0
+  },
+  "unrepeated_steps": [],
+  "raw_to_bank": {
+    "stage": "raw CSV preprocessing and replay bank reconstruction",
+    "arrays": {
+      "target_ids": {
+        "shape_identical": true,
+        "dtype_identical": true,
+        "values_exactly_identical": true,
+        "max_abs_difference": null
+      },
+      "target_groups": {
+        "shape_identical": true,
+        "dtype_identical": true,
+        "values_exactly_identical": true,
+        "max_abs_difference": null
+      },
+      "patterns": {
+        "shape_identical": true,
+        "dtype_identical": true,
+        "values_exactly_identical": true,
+        "max_abs_difference": null
+      },
+      "clean": {
+        "shape_identical": true,
+        "dtype_identical": true,
+        "values_exactly_identical": true,
+        "max_abs_difference": 0.0
+      },
+      "events": {
+        "shape_identical": true,
+        "dtype_identical": true,
+        "values_exactly_identical": true,
+        "max_abs_difference": 0.0
+      },
+      "templates": {
+        "shape_identical": true,
+        "dtype_identical": true,
+        "values_exactly_identical": true,
+        "max_abs_difference": 0.0
+      },
+      "residual_ids": {
+        "shape_identical": true,
+        "dtype_identical": true,
+        "values_exactly_identical": true,
+        "max_abs_difference": null
+      },
+      "residual_groups": {
+        "shape_identical": true,
+        "dtype_identical": true,
+        "values_exactly_identical": true,
+        "max_abs_difference": null
+      },
+      "residual_stages": {
+        "shape_identical": true,
+        "dtype_identical": true,
+        "values_exactly_identical": true,
+        "max_abs_difference": 0.0
+      },
+      "residuals": {
+        "shape_identical": true,
+        "dtype_identical": true,
+        "values_exactly_identical": true,
+        "max_abs_difference": 0.0
+      }
+    },
+    "keys_identical": true,
+    "source_manifest_exactly_identical": true,
+    "source_hashes_match": {
+      "G1": true,
+      "G2": true,
+      "G3": true,
+      "G4": true
+    },
+    "spectral_profiles_bytes_identical": true,
+    "bank_eligibility_exactly_identical": true,
+    "all_bank_arrays_exactly_identical": true,
+    "regenerated_bank_sha256": "25f5ff87dbe6252520a4b9a2699525e80841db8ec019f743d638091b8c01408e",
+    "archived_bank_sha256": "25f5ff87dbe6252520a4b9a2699525e80841db8ec019f743d638091b8c01408e"
+  },
+  "all_csv_bytes_identical": true,
+  "feature_arrays_exactly_identical": true,
+  "fitted_model_parameters_exactly_identical": true
+}

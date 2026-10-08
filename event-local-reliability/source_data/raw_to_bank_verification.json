@@ -1,0 +1,43 @@
+{
+  "target_ids": {
+    "equal": true,
+    "max_abs_difference": null
+  },
+  "target_groups": {
+    "equal": true,
+    "max_abs_difference": null
+  },
+  "patterns": {
+    "equal": true,
+    "max_abs_difference": null
+  },
+  "clean": {
+    "equal": true,
+    "max_abs_difference": 0.0
+  },
+  "events": {
+    "equal": true,
+    "max_abs_difference": 0.0
+  },
+  "templates": {
+    "equal": true,
+    "max_abs_difference": 0.0
+  },
+  "residual_ids": {
+    "equal": true,
+    "max_abs_difference": null
+  },
+  "residual_groups": {
+    "equal": true,
+    "max_abs_difference": null
+  },
+  "residual_stages": {
+    "equal": true,
+    "max_abs_difference": 0.0
+  },
+  "residuals": {
+    "equal": true,
+    "max_abs_difference": 0.0
+  },
+  "source_sha256_match": true
+}

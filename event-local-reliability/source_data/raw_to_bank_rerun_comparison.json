@@ -1,0 +1,78 @@
+{
+  "stage": "raw CSV preprocessing and replay bank reconstruction",
+  "arrays": {
+    "target_ids": {
+      "shape_identical": true,
+      "dtype_identical": true,
+      "values_exactly_identical": true,
+      "max_abs_difference": null
+    },
+    "target_groups": {
+      "shape_identical": true,
+      "dtype_identical": true,
+      "values_exactly_identical": true,
+      "max_abs_difference": null
+    },
+    "patterns": {
+      "shape_identical": true,
+      "dtype_identical": true,
+      "values_exactly_identical": true,
+      "max_abs_difference": null
+    },
+    "clean": {
+      "shape_identical": true,
+      "dtype_identical": true,
+      "values_exactly_identical": true,
+      "max_abs_difference": 0.0
+    },
+    "events": {
+      "shape_identical": true,
+      "dtype_identical": true,
+      "values_exactly_identical": true,
+      "max_abs_difference": 0.0
+    },
+    "templates": {
+      "shape_identical": true,
+      "dtype_identical": true,
+      "values_exactly_identical": true,
+      "max_abs_difference": 0.0
+    },
+    "residual_ids": {
+      "shape_identical": true,
+      "dtype_identical": true,
+      "values_exactly_identical": true,
+      "max_abs_difference": null
+    },
+    "residual_groups": {
+      "shape_identical": true,
+      "dtype_identical": true,
+      "values_exactly_identical": true,
+      "max_abs_difference": null
+    },
+    "residual_stages": {
+      "shape_identical": true,
+      "dtype_identical": true,
+      "values_exactly_identical": true,
+      "max_abs_difference": 0.0
+    },
+    "residuals": {
+      "shape_identical": true,
+      "dtype_identical": true,
+      "values_exactly_identical": true,
+      "max_abs_difference": 0.0
+    }
+  },
+  "keys_identical": true,
+  "source_manifest_exactly_identical": true,
+  "source_hashes_match": {
+    "G1": true,
+    "G2": true,
+    "G3": true,
+    "G4": true
+  },
+  "spectral_profiles_bytes_identical": true,
+  "bank_eligibility_exactly_identical": true,
+  "all_bank_arrays_exactly_identical": true,
+  "regenerated_bank_sha256": "25f5ff87dbe6252520a4b9a2699525e80841db8ec019f743d638091b8c01408e",
+  "archived_bank_sha256": "25f5ff87dbe6252520a4b9a2699525e80841db8ec019f743d638091b8c01408e"
+}

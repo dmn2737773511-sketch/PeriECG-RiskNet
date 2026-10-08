@@ -1,0 +1,18 @@
+{
+  "rotation_max_relative_periodogram_error": 6.442714102894778e-16,
+  "rotation_max_relative_energy_error": 3.910367680525439e-16,
+  "rotation_max_relative_covariance_error": 8.962647647399863e-16,
+  "lead_map_rank": 3,
+  "n_source_recordings": 4,
+  "heldout_source_overlap": 0,
+  "clean_eligibility_all_pass": true,
+  "software": {
+    "python": "3.13.5",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "scikit_learn": "1.8.0",
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.41"
+  },
+  "replayed_saved_rows": 16,
+  "max_feature_recompute_abs_error": 0
+}
