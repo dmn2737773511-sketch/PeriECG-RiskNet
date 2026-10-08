@@ -1,0 +1,28 @@
+{
+  "accessed_date": "2026-10-06",
+  "mitdb": {
+    "url": "https://physionet.org/content/mitdb/1.0.0/",
+    "files_url": "https://physionet.org/files/mitdb/1.0.0/",
+    "version": "1.0.0",
+    "doi": "10.13026/C2F305",
+    "license": "Open Data Commons Attribution License v1.0",
+    "facts": "48 half-hour two-channel 360 Hz ambulatory ECG recordings from 47 subjects; cardiologist reference beat annotations.",
+    "recommended_original_citation": "Moody GB, Mark RG. The impact of the MIT-BIH Arrhythmia Database. IEEE Engineering in Medicine and Biology Magazine. 2001;20(3):45\u201350."
+  },
+  "mitdb_directory": {
+    "url": "https://archive.physionet.org/physiobank/database/html/mitdbdir/intro.htm",
+    "facts": "Records 201 and 202 came from the same subject; lead configurations vary, record 114 reverses channel order, and records 102/104/107/217 include paced beats."
+  },
+  "nstdb": {
+    "url": "https://physionet.org/content/nstdb/1.0.0/",
+    "files_url": "https://physionet.org/files/nstdb/1.0.0/",
+    "version": "1.0.0",
+    "doi": "10.13026/C2HS3T",
+    "license": "Open Data Commons Attribution License v1.0",
+    "facts": "The bw, ma and em records predominantly contain baseline wander, muscle artifact and electrode motion artifact, recorded from physically active volunteers with electrodes arranged to avoid visible ECG.",
+    "recommended_original_citation": "Moody GB, Muldrow WE, Mark RG. A noise stress test for arrhythmia detectors. Computers in Cardiology. 1984;11:381\u2013384.",
+    "bibliographic_note": "The dataset page prints Muldrow WE. The manuscript retains Muldrow WK, consistent with the original archival reference audit and the same authors' 1989 paper hosted by PhysioNet; this discrepancy is documented rather than silently replacing the publication identity.",
+    "author_publication_reference_source": "https://archive.physionet.org/tutorials/pr-comp/cic89.html",
+    "manuscript_original_citation": "Moody GB, Muldrow WK, Mark RG. A noise stress test for arrhythmia detectors. Computers in Cardiology. 1984;11:381\u2013384."
+  }
+}

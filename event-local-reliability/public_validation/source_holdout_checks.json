@@ -1,0 +1,614 @@
+[
+  {
+    "heldout_patient_group": "100",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "100"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "101",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "101"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "102",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "102"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "103",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "103"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "104",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "104"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "105",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "105"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "106",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "106"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "107",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "107"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "108",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "108"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "109",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "109"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "111",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "111"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "112",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "112"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "113",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "113"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "114",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "114"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "115",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "115"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "116",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "116"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "117",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "117"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "118",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "118"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "119",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "119"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "121",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "121"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "122",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "122"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "123",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "123"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "124",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "124"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "200",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "200"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "201_202",
+    "n_train": 17664,
+    "n_test": 768,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "201",
+      "202"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "203",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "203"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "205",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "205"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "207",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "207"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "208",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "208"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "209",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "209"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "210",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "210"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "212",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "212"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "213",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "213"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "214",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "214"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "215",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "215"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "217",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "217"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "219",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "219"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "220",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "220"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "221",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "221"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "222",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "222"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "223",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "223"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "228",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "228"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "230",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "230"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "231",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "231"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "232",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "232"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "233",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "233"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  },
+  {
+    "heldout_patient_group": "234",
+    "n_train": 18048,
+    "n_test": 384,
+    "n_train_patient_groups": 46,
+    "test_records": [
+      "234"
+    ],
+    "train_test_patient_overlap": [],
+    "n_shared_noise_windows": 6,
+    "noise_windows_shared": true,
+    "evaluation_scope": "unseen target patient; shared fixed benchmark noise bank"
+  }
+]
