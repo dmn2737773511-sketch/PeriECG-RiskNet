@@ -1,0 +1,476 @@
+TY  - JOUR
+ID  - 1
+TI  - Signal quality indices and data fusion for determining clinical acceptability of electrocardiograms
+PY  - 2012
+JO  - Physiological Measurement
+DO  - 10.1088/0967-3334/33/9/1419
+UR  - https://doi.org/10.1088/0967-3334/33/9/1419
+ER  - 
+
+TY  - JOUR
+ID  - 2
+TI  - Signal-quality indices for the electrocardiogram and photoplethysmogram: derivation and applications to wireless monitoring
+PY  - 2015
+JO  - IEEE Journal of Biomedical and Health Informatics
+DO  - 10.1109/JBHI.2014.2338351
+UR  - https://doi.org/10.1109/JBHI.2014.2338351
+ER  - 
+
+TY  - JOUR
+ID  - 3
+TI  - SQI quality evaluation mechanism of single-lead ECG signal based on simple heuristic fusion and fuzzy comprehensive evaluation
+PY  - 2018
+JO  - Frontiers in Physiology
+DO  - 10.3389/fphys.2018.00727
+UR  - https://doi.org/10.3389/fphys.2018.00727
+ER  - 
+
+TY  - JOUR
+ID  - 4
+TI  - ECG signal quality during arrhythmia and its application to false alarm reduction
+PY  - 2013
+JO  - IEEE Transactions on Biomedical Engineering
+DO  - 10.1109/TBME.2013.2240452
+UR  - https://doi.org/10.1109/TBME.2013.2240452
+ER  - 
+
+TY  - JOUR
+ID  - 5
+TI  - Assessing ECG signal quality indices to discriminate ECGs with artefacts from pathologically different arrhythmic ECGs
+PY  - 2016
+JO  - Physiological Measurement
+DO  - 10.1088/0967-3334/37/8/1370
+UR  - https://doi.org/10.1088/0967-3334/37/8/1370
+ER  - 
+
+TY  - JOUR
+ID  - 6
+TI  - Robust heart rate estimation from multiple asynchronous noisy sources using signal quality indices and a Kalman filter
+PY  - 2008
+JO  - Physiological Measurement
+DO  - 10.1088/0967-3334/29/1/002
+UR  - https://doi.org/10.1088/0967-3334/29/1/002
+ER  - 
+
+TY  - JOUR
+ID  - 7
+TI  - Quality assessment of ambulatory ECG using wavelet entropy of the HRV signal
+PY  - 2017
+JO  - IEEE Journal of Biomedical and Health Informatics
+DO  - 10.1109/JBHI.2016.2615316
+UR  - https://doi.org/10.1109/JBHI.2016.2615316
+ER  - 
+
+TY  - JOUR
+ID  - 8
+TI  - Automated electrocardiogram signal quality assessment based on Fourier analysis and template matching
+PY  - 2023
+JO  - Journal of Clinical Monitoring and Computing
+DO  - 10.1007/s10877-022-00948-5
+UR  - https://doi.org/10.1007/s10877-022-00948-5
+ER  - 
+
+TY  - JOUR
+ID  - 9
+TI  - Introduction to electrocardiogram signal quality assessment and estimated accuracy for textile electrodes
+PY  - 2025
+JO  - Scientific Reports
+DO  - 10.1038/s41598-025-25365-x
+UR  - https://doi.org/10.1038/s41598-025-25365-x
+ER  - 
+
+TY  - JOUR
+ID  - 10
+TI  - Epidermal electronics
+PY  - 2011
+JO  - Science
+DO  - 10.1126/science.1206157
+UR  - https://doi.org/10.1126/science.1206157
+ER  - 
+
+TY  - JOUR
+ID  - 11
+TI  - Relationship between contact pressure and motion artifacts in ECG measurement with electrostatic flocked electrodes fabricated on textile
+PY  - 2019
+JO  - Scientific Reports
+DO  - 10.1038/s41598-019-42027-x
+UR  - https://doi.org/10.1038/s41598-019-42027-x
+ER  - 
+
+TY  - JOUR
+ID  - 12
+TI  - Effect of pressure and padding on motion artifact of textile electrodes
+PY  - 2013
+JO  - BioMedical Engineering OnLine
+DO  - 10.1186/1475-925X-12-26
+UR  - https://doi.org/10.1186/1475-925X-12-26
+ER  - 
+
+TY  - JOUR
+ID  - 13
+TI  - Impedance spectroscopy of changes in skin-electrode impedance induced by motion
+PY  - 2014
+JO  - BioMedical Engineering OnLine
+DO  - 10.1186/1475-925X-13-149
+UR  - https://doi.org/10.1186/1475-925X-13-149
+ER  - 
+
+TY  - JOUR
+ID  - 14
+TI  - Systematic benchmarking of a noise-tolerant conductive hydrogel electrode for epidermal bioelectronics
+PY  - 2026
+JO  - Advanced Science
+DO  - 10.1002/advs.202515131
+UR  - https://doi.org/10.1002/advs.202515131
+ER  - 
+
+TY  - JOUR
+ID  - 15
+TI  - Meta-topological hydrogel enables multisource and frequency-tailored artefact mitigation for bioelectronics
+PY  - 2026
+JO  - Nature Sensors
+DO  - 10.1038/s44460-026-00055-x
+UR  - https://doi.org/10.1038/s44460-026-00055-x
+ER  - 
+
+TY  - JOUR
+ID  - 16
+TI  - A noise stress test for arrhythmia detectors
+PY  - 1984
+JO  - Computers in Cardiology
+DO  - 
+UR  - https://georgebmoody.com/publications/nst-cinc-1984.pdf
+ER  - 
+
+TY  - JOUR
+ID  - 17
+TI  - PhysioBank, PhysioToolkit, and PhysioNet: components of a new research resource for complex physiologic signals
+PY  - 2000
+JO  - Circulation
+DO  - 10.1161/01.CIR.101.23.e215
+UR  - https://doi.org/10.1161/01.CIR.101.23.e215
+ER  - 
+
+TY  - JOUR
+ID  - 18
+TI  - The impact of the MIT-BIH arrhythmia database
+PY  - 2001
+JO  - IEEE Engineering in Medicine and Biology Magazine
+DO  - 10.1109/51.932724
+UR  - https://doi.org/10.1109/51.932724
+ER  - 
+
+TY  - JOUR
+ID  - 19
+TI  - QRS detection in single-lead, telehealth electrocardiogram signals: benchmarking open-source algorithms
+PY  - 2024
+JO  - PLOS Digital Health
+DO  - 10.1371/journal.pdig.0000538
+UR  - https://doi.org/10.1371/journal.pdig.0000538
+ER  - 
+
+TY  - JOUR
+ID  - 20
+TI  - QRS detection algorithm for telehealth electrocardiogram recordings
+PY  - 2016
+JO  - IEEE Transactions on Biomedical Engineering
+DO  - 10.1109/TBME.2016.2549060
+UR  - https://doi.org/10.1109/TBME.2016.2549060
+ER  - 
+
+TY  - JOUR
+ID  - 21
+TI  - The use of fast Fourier transform for the estimation of power spectra: a method based on time averaging over short, modified periodograms
+PY  - 1967
+JO  - IEEE Transactions on Audio and Electroacoustics
+DO  - 10.1109/TAU.1967.1161901
+UR  - https://doi.org/10.1109/TAU.1967.1161901
+ER  - 
+
+TY  - JOUR
+ID  - 22
+TI  - A real-time QRS detection algorithm
+PY  - 1985
+JO  - IEEE Transactions on Biomedical Engineering
+DO  - 10.1109/TBME.1985.325532
+UR  - https://doi.org/10.1109/TBME.1985.325532
+ER  - 
+
+TY  - JOUR
+ID  - 23
+TI  - Quantitative investigation of QRS detection rules using the MIT/BIH arrhythmia database
+PY  - 1986
+JO  - IEEE Transactions on Biomedical Engineering
+DO  - 10.1109/TBME.1986.325695
+UR  - https://doi.org/10.1109/TBME.1986.325695
+ER  - 
+
+TY  - JOUR
+ID  - 24
+TI  - Real time electrocardiogram QRS detection using combined adaptive threshold
+PY  - 2004
+JO  - BioMedical Engineering OnLine
+DO  - 10.1186/1475-925X-3-28
+UR  - https://doi.org/10.1186/1475-925X-3-28
+ER  - 
+
+TY  - JOUR
+ID  - 25
+TI  - Fast QRS detection with an optimized knowledge-based method: evaluation on 11 standard ECG databases
+PY  - 2013
+JO  - PLoS ONE
+DO  - 10.1371/journal.pone.0073557
+UR  - https://doi.org/10.1371/journal.pone.0073557
+ER  - 
+
+TY  - JOUR
+ID  - 26
+TI  - Leakage and the reproducibility crisis in machine-learning-based science
+PY  - 2023
+JO  - Patterns
+DO  - 10.1016/j.patter.2023.100804
+UR  - https://doi.org/10.1016/j.patter.2023.100804
+ER  - 
+
+TY  - JOUR
+ID  - 27
+TI  - The need to approximate the use-case in clinical machine learning
+PY  - 2017
+JO  - GigaScience
+DO  - 10.1093/gigascience/gix019
+UR  - https://doi.org/10.1093/gigascience/gix019
+ER  - 
+
+TY  - JOUR
+ID  - 28
+TI  - An introduction to ROC analysis
+PY  - 2006
+JO  - Pattern Recognition Letters
+DO  - 10.1016/j.patrec.2005.10.010
+UR  - https://doi.org/10.1016/j.patrec.2005.10.010
+ER  - 
+
+TY  - JOUR
+ID  - 29
+TI  - The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets
+PY  - 2015
+JO  - PLoS ONE
+DO  - 10.1371/journal.pone.0118432
+UR  - https://doi.org/10.1371/journal.pone.0118432
+ER  - 
+
+TY  - JOUR
+ID  - 30
+TI  - Verification of forecasts expressed in terms of probability
+PY  - 1950
+JO  - Monthly Weather Review
+DO  - 10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2
+UR  - https://doi.org/10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2
+ER  - 
+
+TY  - JOUR
+ID  - 31
+TI  - Strictly proper scoring rules, prediction, and estimation
+PY  - 2007
+JO  - Journal of the American Statistical Association
+DO  - 10.1198/016214506000001437
+UR  - https://doi.org/10.1198/016214506000001437
+ER  - 
+
+TY  - JOUR
+ID  - 32
+TI  - On calibration of modern neural networks
+PY  - 2017
+JO  - Proceedings of Machine Learning Research
+DO  - 
+UR  - https://proceedings.mlr.press/v70/guo17a.html
+ER  - 
+
+TY  - JOUR
+ID  - 33
+TI  - Predicting good probabilities with supervised learning
+PY  - 2005
+JO  - Proceedings of the 22nd International Conference on Machine Learning
+DO  - 10.1145/1102351.1102430
+UR  - https://doi.org/10.1145/1102351.1102430
+ER  - 
+
+TY  - JOUR
+ID  - 34
+TI  - On optimum recognition error and reject tradeoff
+PY  - 1970
+JO  - IEEE Transactions on Information Theory
+DO  - 10.1109/TIT.1970.1054406
+UR  - https://doi.org/10.1109/TIT.1970.1054406
+ER  - 
+
+TY  - JOUR
+ID  - 35
+TI  - On the foundations of noise-free selective classification
+PY  - 2010
+JO  - Journal of Machine Learning Research
+DO  - 
+UR  - https://jmlr.org/papers/v11/el-yaniv10a.html
+ER  - 
+
+TY  - JOUR
+ID  - 36
+TI  - Array programming with NumPy
+PY  - 2020
+JO  - Nature
+DO  - 10.1038/s41586-020-2649-2
+UR  - https://doi.org/10.1038/s41586-020-2649-2
+ER  - 
+
+TY  - JOUR
+ID  - 37
+TI  - SciPy 1.0: fundamental algorithms for scientific computing in Python
+PY  - 2020
+JO  - Nature Methods
+DO  - 10.1038/s41592-019-0686-2
+UR  - https://doi.org/10.1038/s41592-019-0686-2
+ER  - 
+
+TY  - JOUR
+ID  - 38
+TI  - Scikit-learn: machine learning in Python
+PY  - 2011
+JO  - Journal of Machine Learning Research
+DO  - 
+UR  - https://jmlr.org/papers/v12/pedregosa11a.html
+ER  - 
+
+TY  - JOUR
+ID  - 39
+TI  - Matplotlib: a 2D graphics environment
+PY  - 2007
+JO  - Computing in Science & Engineering
+DO  - 10.1109/MCSE.2007.55
+UR  - https://doi.org/10.1109/MCSE.2007.55
+ER  - 
+
+TY  - JOUR
+ID  - 40
+TI  - TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods
+PY  - 2024
+JO  - BMJ
+DO  - 10.1136/bmj-2023-078378
+UR  - https://doi.org/10.1136/bmj-2023-078378
+ER  - 
+
+TY  - JOUR
+ID  - 41
+TI  - Model cards for model reporting
+PY  - 2019
+JO  - Proceedings of the Conference on Fairness, Accountability, and Transparency
+DO  - 10.1145/3287560.3287596
+UR  - https://doi.org/10.1145/3287560.3287596
+ER  - 
+
+TY  - JOUR
+ID  - 42
+TI  - Datasheets for datasets
+PY  - 2021
+JO  - Communications of the ACM
+DO  - 10.1145/3458723
+UR  - https://doi.org/10.1145/3458723
+ER  - 
+
+TY  - JOUR
+ID  - 43
+TI  - PTB-XL, a large publicly available electrocardiography dataset
+PY  - 2020
+JO  - Scientific Data
+DO  - 10.1038/s41597-020-0495-6
+UR  - https://doi.org/10.1038/s41597-020-0495-6
+ER  - 
+
+TY  - JOUR
+ID  - 44
+TI  - Deep learning for ECG analysis: benchmarks and insights from PTB-XL
+PY  - 2021
+JO  - IEEE Journal of Biomedical and Health Informatics
+DO  - 10.1109/JBHI.2020.3022989
+UR  - https://doi.org/10.1109/JBHI.2020.3022989
+ER  - 
+
+TY  - JOUR
+ID  - 45
+TI  - Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network
+PY  - 2019
+JO  - Nature Medicine
+DO  - 10.1038/s41591-018-0268-3
+UR  - https://doi.org/10.1038/s41591-018-0268-3
+ER  - 
+
+TY  - JOUR
+ID  - 46
+TI  - Automatic diagnosis of the 12-lead ECG using a deep neural network
+PY  - 2020
+JO  - Nature Communications
+DO  - 10.1038/s41467-020-15432-4
+UR  - https://doi.org/10.1038/s41467-020-15432-4
+ER  - 
+
+TY  - JOUR
+ID  - 47
+TI  - A wavelet-based ECG delineator: evaluation on standard databases
+PY  - 2004
+JO  - IEEE Transactions on Biomedical Engineering
+DO  - 10.1109/TBME.2003.821031
+UR  - https://doi.org/10.1109/TBME.2003.821031
+ER  - 
+
+TY  - JOUR
+ID  - 48
+TI  - Signal quality and data fusion for false alarm reduction in the intensive care unit
+PY  - 2012
+JO  - Journal of Electrocardiology
+DO  - 10.1016/j.jelectrocard.2012.07.015
+UR  - https://doi.org/10.1016/j.jelectrocard.2012.07.015
+ER  - 
+
+TY  - JOUR
+ID  - 49
+TI  - Can you trust your model’s uncertainty? Evaluating predictive uncertainty under dataset shift
+PY  - 2019
+JO  - Advances in Neural Information Processing Systems
+DO  - 
+UR  - https://proceedings.neurips.cc/paper/9547-can-you-trust-your-models-uncertainty-evaluating-predictive-uncertainty-under-dataset-shift.pdf
+ER  - 
+
+TY  - JOUR
+ID  - 50
+TI  - Machine learning algorithm validation with a limited sample size
+PY  - 2019
+JO  - PLoS ONE
+DO  - 10.1371/journal.pone.0224365
+UR  - https://doi.org/10.1371/journal.pone.0224365
+ER  - 
+
+TY  - JOUR
+ID  - 51
+TI  - Cross-validation failure: small sample sizes lead to large error bars
+PY  - 2018
+JO  - NeuroImage
+DO  - 10.1016/j.neuroimage.2017.06.061
+UR  - https://doi.org/10.1016/j.neuroimage.2017.06.061
+ER  - 
+
+TY  - JOUR
+ID  - 52
+TI  - Selective classification for deep neural networks
+PY  - 2017
+JO  - Advances in Neural Information Processing Systems
+DO  - 
+UR  - https://papers.nips.cc/paper_files/paper/2017/file/4a8423d5e91fda00bb7e46540e2b0cf1-Paper.pdf
+ER  - 
+
+TY  - JOUR
+ID  - 53
+TI  - SelectiveNet: a deep neural network with an integrated reject option
+PY  - 2019
+JO  - Proceedings of Machine Learning Research
+DO  - 
+UR  - https://proceedings.mlr.press/v97/geifman19a.html
+ER  - 
